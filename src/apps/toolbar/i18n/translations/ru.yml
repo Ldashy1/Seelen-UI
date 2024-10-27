@@ -1,19 +1,19 @@
 media:
-  master_volume: Основная громкость
+  master_volume: Общая громкость
   output_device: Устройство вывода
   input_device: Устройство ввода
-  players: Медиаплееры
+  players: Источники звука
   device:
     multimedia: Мультимедиа
-    comunications: Коммуникации
+    comunications: Связь
 network:
-  not_found: Не найдено ни одной сети
-  more: Больше настроек сети
+  not_found: Нет доступных сетей
+  more: Дополнительные настройки сети
   hidden: Скрытая сеть
   placeholder:
     password: Пароль
-  disconnect: Отключить
-  connect: Подключить
+  disconnect: Отключиться
+  connect: Подключиться
 settings:
   title: Настройки
   app_settings: Настройки приложения
@@ -24,10 +24,10 @@ settings:
   power: Питание
 placeholder:
   open_user_folder: Открыть папку пользователя
-  open_system_tray: Открыть системный трей
+  open_system_tray: Открыть трей
   bluetooth_devices: Bluetooth и устройства
-  ethernet_connected: Сеть
-  ethernet_disconnected: Нет сети
+  ethernet_connected: Доступ к интернету
+  ethernet_disconnected: Нет доступа к интернету
   volume: Громкость
   battery_remaining: Осталось %
   smart_charge: '- Умная зарядка'
